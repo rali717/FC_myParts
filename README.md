@@ -1,2 +1,2 @@
-# Freecad__myOwnParts
+# MyOwnParts
 My own drawn Freecad parts and profiles.
